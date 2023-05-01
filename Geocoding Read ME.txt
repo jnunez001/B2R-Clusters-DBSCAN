@@ -1,0 +1,7 @@
+This python script uses Dep of Energy and CREDA's geocoding tools to create unique identifiers for communities using longitude and latitude coordinates (by creating a convex hull first).
+
+To decode the unique building identifiers (UBIDs), use this website:
+
+https://buildingid.github.io/examples/decode-example.html
+
+place UBID there to get the bounding box in a map.
